@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GoogleMapDemo</string>
+    <string name="showM">You have clicked bt1 button...</string>
+    <string name="google_maps_key" translatable="false" templateMergeStrategy="preserve">
+        AIzaSyCfpyKFYUUhvBVEp9GG_2e8GpB4u3Uqbhw
+    </string>
+</resources>
