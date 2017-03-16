@@ -1,0 +1,15 @@
+Google Maps API for Android:
+   get key: https://developers.google.com/maps/documentation/android-api/signup?hl=zh-cn
+
+
+https://developers.google.com/android/guides/setup?hl=zh-cn
+
+demo:  https://github.com/googlemaps/android-samples
+
+http://www.jianshu.com/p/574919db97c0
+
+another guide: https://developers.google.com/maps/documentation/android-api/intro?hl=zh-cn
+
+https://developer.android.com/studio/publish/app-signing.html?hl=zh-cn#certificates-keystores
+
+https://developers.google.com/places/android-api/start?hl=zh-cn
